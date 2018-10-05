@@ -1,0 +1,6 @@
+# Development credentials
+[client]
+user = john_smith
+password = "supersecret"
+host = mysql.domain.name
+db = data_base_name_1
